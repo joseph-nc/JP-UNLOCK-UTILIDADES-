@@ -15,10 +15,14 @@ UTILIDADES Y HERRAMIENTAS ADB/FASBOOT, FRP, KG.
 - CORRECCION MENOR DE ERRORES
 -----------------------------------
 
-**[DOWNLOAD](https://github.com/joseph-nc/JP-UNLOCK-UTILIDADES-/releases/download/v15.4/JP-TOOL-V15.5.exe)**
+
 
 
 
 
 ![home](https://github.com/joseph-nc/JP-UNLOCK-UTILIDADES-/assets/81875707/5ab50434-3a77-462e-9e4a-60d968221717)
 
+**[DOWNLOAD](https://github.com/joseph-nc/JP-UNLOCK-UTILIDADES-/releases/download/v15.4/JP-TOOL-V15.5.exe)**
+______
+[![DONATE ♥](https://github.com/joseph-nc/JP-UNLOCK-UTILIDADES-/blob/main/donate.png?raw=true)](https://www.buymeacoffee.com/josephn)
+### [**DONATE ♥**](https://www.buymeacoffee.com/josephn)
